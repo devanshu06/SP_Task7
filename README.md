@@ -42,10 +42,9 @@ Link to the Blog: https://devanshu-singh.medium.com/what-is-javascript-its-use-c
  ![image](https://user-images.githubusercontent.com/65216265/123052520-87f5b180-d420-11eb-83f3-eb7676923725.png)
  ### 3. `docker ps -a`
  --> This comamnd will show all the running & stopped container you have launched.
+ ![image](https://user-images.githubusercontent.com/65216265/123052761-cf7c3d80-d420-11eb-91b8-9db23a62e009.png)
  
- We can run all the docker command so do it by Your self.
- --> ![image](https://user-images.githubusercontent.com/65216265/123052761-cf7c3d80-d420-11eb-91b8-9db23a62e009.png)
-
+  We can run all the docker command so do it by Your self.
 
  
  
